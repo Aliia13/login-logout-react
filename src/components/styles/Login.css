@@ -1,0 +1,14 @@
+.login {
+  width: 70%;
+  margin: 40px auto;
+  border: 1px solid gray;
+  padding: 10px;
+  border-radius: 5px;
+}
+.error {
+  text-align: center;
+  padding: 10px;
+  border: 1px solid red;
+  margin-bottom: 5px;
+  border-radius: 3px;
+}
